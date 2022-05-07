@@ -29,6 +29,7 @@
            
            
 **FEEDBACK:** 
+
            - Use CMI commands for github 
            - Use power shell instead of command prompt
            - Learn how variables in stack get handled
@@ -46,6 +47,7 @@
        - Learn about SCM(Source Code Managemant)
       
 **FEEDBACK:** 
+
            - Clear small error in file 
            - Install Jenv properly
            - Change dailytask file from readme to other file
@@ -60,8 +62,10 @@
        - merge that by resolving conflicts
        -  switch between  java versions[JENV]
        - learn about Streams,map,filter,for each
+       
       
 **FEEDBACK:** 
+
            - Don't remove Jnev 
            - find what is -u in the command of pushing the branch to github
            - Change dailytask file from other file to other .md file other than readme
