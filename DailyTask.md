@@ -71,5 +71,22 @@
            - Don't remove Jnev 
            - find what is -u in the command of pushing the branch to github
            - Change dailytask file from other file to other .md file other than readme
+          
+          
+ 
+>*DAY 5* [9-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Compile the Program Correctly
+       - Contrust a sample maven project to parse java objects to JSON using GSON
+      
+       
+      
+**FEEDBACK:** 
+
+           - Use Mapof() function in streams to read more values in  collection
+           - Avoid typos in .md files
+           - Use space efficiently while coding
            
 
