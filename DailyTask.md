@@ -89,4 +89,71 @@
            - Avoid typos in .md files
            - Use space efficiently while coding
            
+           
+  
+>*DAY 6* [10-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - ReBuild maven project with multiple dependencies
+       - use gitignore
+       - Extract jar files from that
+      
+       
+      
+**FEEDBACK:** 
+
+           - use cli not ide for bulding and jar creation
+           - use one ide alone
+           
+           
+>*DAY 7* [11-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Create a java program using set and filter strings that has character a or c at position 1 and 3.
+       - map and 10 elements and set has 7 elements find the missing 3 elements of set...
+       
+       
+      
+**FEEDBACK:** 
+
+           - avoid redundant code
+           - use proper naming convintion
+           
+           
+>*DAY 8* [12-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Build clean install via maven
+       - write test cases for the code
+       - use jacoco test coverage
+       - any 4 design pattern with sample code
+      
+       
+      
+**FEEDBACK:** 
+
+           - use dependencies of jacoco and mockito
+           - try to improve coverage
+           
+           
+ >*DAY 9* [13-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Build clean install via maven
+       - write test cases for the code
+       - use jacoco test coverage
+       - any 4 design pattern with sample code
+      
+       
+      
+**FEEDBACK:** 
+
+           - use dependencies of jacoco and mockito
+           - try to improve coverage
+           
+           
 
