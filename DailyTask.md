@@ -143,17 +143,76 @@
 
 **TASK_GIVEN:**
 
-       - Build clean install via maven
-       - write test cases for the code
-       - use jacoco test coverage
-       - any 4 design pattern with sample code
-      
-       
+       - Build a queue with non primitive datatypes
+       - use generics to make it flexible
+       - learn multimodule maven projects
+        
       
 **FEEDBACK:** 
 
-           - use dependencies of jacoco and mockito
+           - use junit test cases with mockito
            - try to improve coverage
+           
+           
+ >*DAY 10* [16-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - reconstruct the queue properly
+       - any object of non primitive class type need to be entering the queue
+       - how to identify unused dependencies using cli
+        
+      
+**FEEDBACK:** 
+
+           - Going Slow ..try to improve Speed
+           
+           
+ >*DAY 11* [17-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - find why lombok is showing in usused dependency even after using it in program
+       - learn fat jar file
+       - implement threads in queue implementation program ..
+       -learn thread pool
+        
+      
+**FEEDBACK:** 
+
+           - code was good and keep it forwarding with futher update
+           - learn keyboard shortcuts
+           
+    
+           
+ >*DAY nil* [18-MAY-2022]  (Gap)
+
+**TASK_GIVEN:**
+
+       - use three threads t1-> 2 enqueue,t2-> 2 enque & 2 dequeu ,t3-> 3 deque 
+       - use null exception properly
+       - build same above using thread pool ..
+       - use completable future with threads...
+       - observer design pattern with callback
+       - learn http methods and Spring Dependency injection...
+       
+       
+       
+  >*DAY 12* [19-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - handle exceptions inside completable future
+       - future.get is blocking or not
+       - learn anyof and allof fuction ..from completetable feature
+       - Build same project with spring boot using http methods..
+       
+       
+**FEEDBACK:** 
+
+           - Update dailytask.md daily without fail...
+        
+       
            
            
 
