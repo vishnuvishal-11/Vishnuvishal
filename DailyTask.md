@@ -211,8 +211,29 @@
 **FEEDBACK:** 
 
            - Update dailytask.md daily without fail...
+           
         
        
-           
+ >*DAY 12* [20-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Set path at class level in SpringBoot project
+       - Learn diff between URI and URL
+       - Use Slf4J
+       - Logger Framewrok
+       - Change Log for one Class alone
+       - Show Size of queue in api
+       - Show Status as endpoint
+       - use Actuators And learn 5 endpoints
+       - Use rate Limitting and Recude Request congestion
+       - use NGROK
+       - learn 4xx error codes
+       
+       
+**FEEDBACK:** 
+
+           - Do not use verb in api call method
+           - follow Naming Convention for rest api
            
 
