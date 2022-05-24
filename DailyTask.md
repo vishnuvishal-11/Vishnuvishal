@@ -236,4 +236,15 @@
            - Do not use verb in api call method
            - follow Naming Convention for rest api
            
+           
+                 
+ >*DAY 13* [23-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - create custom end points for info and health
+       - hard code rate limiting instead of resilience4j
+       - use and learn filters
+      
+           
 
