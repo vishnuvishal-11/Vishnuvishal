@@ -237,14 +237,24 @@
            - follow Naming Convention for rest api
            
            
-                 
- >*DAY 13* [23-MAY-2022]
+  >*DAY 14* [19-MAY-2022]
 
 **TASK_GIVEN:**
 
-       - create custom end points for info and health
-       - hard code rate limiting instead of resilience4j
-       - use and learn filters
+       - handle exceptions inside completable future
+       - future.get is blocking or not
+       - learn anyof and allof fuction ..from completetable feature
+       - Build same project with spring boot using http methods..
+           
+           
+                 
+ >*DAY 15* [24-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - use filter for post method alone
+       - handle runtime environment to continue the process after throwing error
+       - use and learn memcached
       
            
 
