@@ -255,6 +255,41 @@
        - use filter for post method alone
        - handle runtime environment to continue the process after throwing error
        - use and learn memcached
+       
+       
+                 
+ >*DAY 16* [25-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - hard code the rate limitting
+       - use and learn redis cache
+       
+       
+ >*DAY 17* [26-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - avoid useless code and remove unnecessary condition check..
+       - get Uri path from Application properties
+       
+       
+       
+ >*DAY 18* [27-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - avoid null point exceptions and improper condition checks
+       - clear IDE bugs 
+       - keep map and counter as private and access only through object
+       
+       
+  >*DAY 19* [30-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - avoid useless code and remove unnecessary condition check..
+       - use computeifPresent and computeIfAbsent fuctions and reduced the length of the code...
       
            
 
