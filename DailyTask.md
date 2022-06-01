@@ -290,6 +290,16 @@
 
        - avoid useless code and remove unnecessary condition check..
        - use computeifPresent and computeIfAbsent fuctions and reduced the length of the code...
+       
+       
+       
+>*DAY 20* [31-MAY-2022]
+
+**TASK_GIVEN:**
+
+       - Keep counter value from 1 to 10
+       - Use redis distributive memeory to hold the values of AccessList Pojo class
+       - implement rate limiting with the help of redis ..
       
            
 
