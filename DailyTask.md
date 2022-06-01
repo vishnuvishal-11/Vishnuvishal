@@ -309,7 +309,7 @@
 
        - read rate limiting value from application properties
        - Read redis 
-       - What is the difference between a port and a socket?- Stack Overfow article
+       - What is the difference between a port and a socket?- Stack Overflow blog
        - Update daily task regularly
       
       
