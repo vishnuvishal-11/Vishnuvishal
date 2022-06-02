@@ -311,6 +311,17 @@
        - Read redis 
        - What is the difference between a port and a socket?- Stack Overflow blog
        - Update daily task regularly
+       
+       
+       
+>*DAY 22* [02-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - Instead of port use X-Forwarded-For to use ip in filters
+       - keep redis filter optimized and as a clean code to  rely completely on redis cache itself
+       - What is the difference between a port and a socket?- notes in word
+       - implement design pattern to select filter from properties ..
       
       
            
