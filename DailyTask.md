@@ -324,5 +324,12 @@
        - implement design pattern to select filter from properties ..
       
       
-           
+ >*DAY 23* [03-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - keep one filter and create design pattern to implement one filter among two 
+       - use allowed and deny list to implement redisfilter...
+      
+                
 
