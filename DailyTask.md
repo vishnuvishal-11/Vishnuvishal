@@ -330,6 +330,16 @@
 
        - keep one filter and create design pattern to implement one filter among two 
        - use allowed and deny list to implement redisfilter...
+       
+      
+ >*DAY 24* [06-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - learn docker and run spring in docker
+       - keep default values for values that read through application properties
+       - interchange conditions such a way ..it should avoid unnecessary condition check
+       - read about checked and unchecked exceptions
       
                 
 
