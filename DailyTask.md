@@ -341,5 +341,14 @@
        - interchange conditions such a way ..it should avoid unnecessary condition check
        - read about checked and unchecked exceptions
       
+>*DAY 25* [07-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - create environment variable for port and filters
+       - learn about docker image 
+       - learn docker cli commands
+       - diff between VM and container
+      
                 
 
