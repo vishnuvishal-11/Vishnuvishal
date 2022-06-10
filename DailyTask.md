@@ -350,5 +350,13 @@
        - learn docker cli commands
        - diff between VM and container
       
-                
+ 
+>*DAY 26* [08-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - use environment variable for ports and filters
+       - make application properties read env variable values
+       - create docker image without using docker file using maven
+       - implement rabbitmq
 
