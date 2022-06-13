@@ -359,4 +359,13 @@
        - make application properties read env variable values
        - create docker image without using docker file using maven
        - implement rabbitmq
+       
+       
+>*DAY 27* [10-JuN-2022]
 
+**TASK_GIVEN:**
+
+       - Implement rabbitMQ  in the project
+       - learn queue,topic ,exchange,rounting key,dead letter queue,dead letter exchange ,correlation id
+       - try printing output in json
+       - create PPT for virtualization-vs-containerization.
