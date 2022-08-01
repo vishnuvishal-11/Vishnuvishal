@@ -446,6 +446,7 @@
 >*DAY 36* [29-JuN-2022]
 
 **TASK_GIVEN:**
+
        - implement the corrections given..
        - rearrange the tables
    
@@ -453,15 +454,44 @@
 >*DAY 37* [1-JULY-2022]
 
 **TASK_GIVEN:**
+
        - Look At tring website and Try to generate ER Diagram
        - Think and create tables and apply normalization
        - read all use cases 
        
        
        
->*DAY 38* [3-JULY-2022]
+>*DAY 38* [4-JULY-2022]
 
 **TASK_GIVEN:**
+
        - Rewrite the changes 
        - change tables and remove redundant tables as per suggestions
        - write api end points to hit the tables in spring boot
+       
+       
+>*DAY 39* [5-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - seperate controller layer from service layer
+       - use dao and dto
+       - generate tables from spring boot application
+       
+       
+>*DAY 40* [5-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - seperate controller layer from service layer
+       - use dao and dto
+       - generate tables from spring boot application
+
+
+>*DAY 41* [8-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - implement paging ,soring and filtering
+       - use restcontroller advice for global exception handler
+       - replace response entypy with anotations
