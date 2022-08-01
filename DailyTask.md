@@ -514,4 +514,23 @@
 
        - use swagger instead of postman
        - keep jwt token security with expiry time
+       
+       
+>*DAY 44* [12-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - add liquibase or flyway to program
+       - keep roles along with security 
+       - save credential in db too
+       
+       
+       
+>*DAY 44* [12-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - try to feel the pain of migration using ddl update property
+       - then learn how to migrate through liquibase
+      
     
