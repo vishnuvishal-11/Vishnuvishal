@@ -407,13 +407,61 @@
        - implement factory design pattern for chooing queue from controller
        
        
-  >*DAY 32* [23-JuN-2022]
+>*DAY 32* [24-JuN-2022]
 
 **TASK_GIVEN:**
 
        - use Dto 
        - use mappper for dto conversion
        - Read values from application properties.. 
-      
-    
        
+       
+>*DAY 33* [26-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - Install postre sql
+       - create three tables
+       - use ddl and dml cmds
+       
+       
+>*DAY 34* [27-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - Learn ER Diagram
+       - create given tables 
+       - find relation ships
+       - draw er diagram for the tables
+      
+      
+>*DAY 35* [28-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - generate er diagram from page admin itself..
+       - implement the corrections given..
+       
+      
+>*DAY 36* [29-JuN-2022]
+
+**TASK_GIVEN:**
+       - implement the corrections given..
+       - rearrange the tables
+   
+   
+>*DAY 37* [1-JULY-2022]
+
+**TASK_GIVEN:**
+       - Look At tring website and Try to generate ER Diagram
+       - Think and create tables and apply normalization
+       - read all use cases 
+       
+       
+       
+>*DAY 38* [3-JULY-2022]
+
+**TASK_GIVEN:**
+       - Rewrite the changes 
+       - change tables and remove redundant tables as per suggestions
+       - write api end points to hit the tables in spring boot
