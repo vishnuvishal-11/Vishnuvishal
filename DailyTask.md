@@ -389,3 +389,31 @@
        - use slf4j
        - log4j vulnerability
        
+       
+ >*DAY 30* [18-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - Override health and info end points
+       - create custom end points
+       - optimize the code
+       
+       
+ >*DAY 31* [22-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - apply security filters
+       - implement factory design pattern for chooing queue from controller
+       
+       
+  >*DAY 32* [23-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - use Dto 
+       - use mappper for dto conversion
+       - Read values from application properties.. 
+      
+    
+       
