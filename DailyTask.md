@@ -494,4 +494,24 @@
 
        - implement paging ,soring and filtering
        - use restcontroller advice for global exception handler
-       - replace response entypy with anotations
+       - replace response entity with anotations
+       
+       
+ 
+>*DAY 42* [10-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - use restcontroller advice for global exception handler properly
+       - use pagination and filtering together..
+       - use repository object directly on service .
+       - remove dao layer
+
+
+>*DAY 43* [11-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - use swagger instead of postman
+       - keep jwt token security with expiry time
+    
