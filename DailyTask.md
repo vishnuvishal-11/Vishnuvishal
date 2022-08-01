@@ -526,11 +526,26 @@
        
        
        
->*DAY 44* [12-JULY-2022]
+>*DAY 45* [15-JULY-2022]
 
 **TASK_GIVEN:**
 
        - try to feel the pain of migration using ddl update property
        - then learn how to migrate through liquibase
-      
     
+    
+>*DAY 46* [16-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - use unix time in milli sec for id in changelog
+       - write changelog for ddl and dml seperately
+  
+  
+>*DAY 47* [17-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - use unix time in milli sec for id in changelog
+       - write changelog for ddl and dml seperately
+       - generate changelog for the existing liquibase
