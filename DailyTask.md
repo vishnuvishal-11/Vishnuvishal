@@ -546,6 +546,76 @@
 
 **TASK_GIVEN:**
 
-       - use unix time in milli sec for id in changelog
-       - write changelog for ddl and dml seperately
+       - Keep a master change log 
+       - read value from csv file 
        - generate changelog for the existing liquibase
+       
+       
+>*DAY 48* [19-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - use relative addressing and so keep the csv file in target itself
+       - generate changelog for the existing liquibase for dml and ddl together with data..
+       
+       
+>*DAY 49* [23-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - implement one click google sign in before jwt auth
+       - create a html page for login and keep sign in with google
+       
+       
+ >*DAY 50* [25-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - create accuont on google cloud and get free deposit
+       - use google redirect url properly
+    
+    
+ >*DAY 51* [26-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - write test cases for queue project
+       - learn and implement jenkins
+       
+       
+>*DAY 52* [26-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - create pipeline 
+       - run the program on jenkins with various stages
+       
+       
+       
+>*DAY 53* [29-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - create pipeline 
+       - run the program on jenkins with various stages
+       - create webhook to trigger after git commit..
+       
+       
+>*DAY 54* [30-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - donot use docker compose.
+       - donot deploy . just buld the image and push to docker hub in a stage.
+       - generate jar and push to jfrog artifactory.
+       - create multibranch and multistage pipeline.
+       - user ngrok for tunneling the ip for webhooks
+       
+       
+>*DAY 55* [31-JULY-2022]
+
+**TASK_GIVEN:**
+
+       - create ppt for topics covered so far
+   
+       
