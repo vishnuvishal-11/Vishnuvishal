@@ -369,3 +369,23 @@
        - learn queue,topic ,exchange,rounting key,dead letter queue,dead letter exchange ,correlation id
        - try printing output in json
        - create PPT for virtualization-vs-containerization.
+       
+  
+>*DAY 28* [13-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - Learn how  file discriptor helps ur system
+       - learn dao ,dto
+       - use mapper to switch between them
+       
+ >*DAY 29* [14-JuN-2022]
+
+**TASK_GIVEN:**
+
+       - keep Application and acces logs to ur application
+       - learn log rotation
+       - deque from rabbit should be the object alone not full msg
+       - use slf4j
+       - log4j vulnerability
+       
